@@ -1,0 +1,76 @@
+.heading{  
+    background-color: lightpink;
+    border:solid;
+}
+
+.grid {
+    background: darkred;
+    background-color: #F0F8FF;
+    display: flex;
+    justify-content: last baseline;
+    text-align: left;
+    flex-wrap: wrap;
+    font-size: small;
+  }
+  .camel {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+
+  .chameleon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+
+  .piegons {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+
+  .chameleon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+
+  .teddy {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+
+  .panda {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+
+  .cicada {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
